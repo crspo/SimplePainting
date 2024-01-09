@@ -1,4 +1,4 @@
-#Simple Painting App on Python#
+# Simple Painting App on Python 
 
 ### Uses Python version 3.12 ###
 ## tkinter GUI interface used to develop the app
